@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 👋 Hi, I’m @Prabhu-Jethi<br><br>🌱 I’m currently learning JavaScript<br><br>📫 How to reach me prabhujethi9@gmail.com
 
 
