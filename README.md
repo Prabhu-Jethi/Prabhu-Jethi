@@ -4,7 +4,7 @@
 👋 Hi, I’m @Prabhu-Jethi<br><br>
 🌱 I’m currently learning JavaScript<br><br>
 📫 How to reach me prabhujethi9@gmail.com 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 
 ## 🌐 Socials:
