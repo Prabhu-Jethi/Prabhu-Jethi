@@ -35,15 +35,6 @@
 
 <br>
 
-<br clear="right"/>
-
-<p align="center">
-  <img src="https://github.com/Prabhu-Jethi/metrics/blob/master/calendar-iso.svg" width="45%" />
-  <img src="https://github.com/Prabhu-Jethi/metrics/blob/master/habits.svg" width="54%" />
-</p>
-
-<br>
-
 
 ## 🛠️ Tech Stack
 
